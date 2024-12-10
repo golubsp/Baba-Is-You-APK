@@ -1,7 +1,7 @@
 # Baba-Is-You-APK
 Baba Is You is an award-winning puzzle game where you can change the rules of your play.
 
-##About Baba Is You Game
+## About Baba Is You Game
 
 Baba Is You - this is an indie game with unusual puzzles. To solve problems in the game, you have to change the rules on the go. Often the player will have to think outside the box. If you like unique and unusual games, then Baba Is You is especially for you.
 
