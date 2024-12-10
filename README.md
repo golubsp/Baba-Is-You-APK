@@ -1,7 +1,7 @@
 # Baba-Is-You-APK
 Baba Is You is an award-winning puzzle game where you can change the rules of your play.
 
-## [Download APK] (https://apkview.com/en/baba-is-you-apk)
+## [Download APK](https://apkview.com/en/baba-is-you-apk)
 
 ## About Baba Is You Game
 
